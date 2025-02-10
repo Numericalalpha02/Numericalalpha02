@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Numericalalpha02
+- 👋 Hi, I’m Rohan Kumar Singh
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
